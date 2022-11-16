@@ -1,0 +1,9 @@
+<Card style={{ width: '18rem' }}>
+  <CardImage orientation="top" src="/images/react.jpg" />
+  <CardBody>
+    <CardTitle>Card title</CCardTitle>
+    <CardText>
+      Hey! it's card here 
+    </CardText>
+  </CardBody>
+</CCard>
